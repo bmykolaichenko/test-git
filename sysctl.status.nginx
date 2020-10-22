@@ -10,5 +10,7 @@
              ├─7594 nginx: worker process
              └─7595 nginx: worker process
 
+I've decided to add new line here
+
 окт 12 14:50:59 bmykolaichenko-System-Product-Name systemd[1]: Starting A high performance web server and a reverse proxy server...
 окт 12 14:50:59 bmykolaichenko-System-Product-Name systemd[1]: Started A high performance web server and a reverse proxy server.
